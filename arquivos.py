@@ -7,4 +7,4 @@ with open('arquivo.txt','r') as file:
     conteudo = file.read()
 print(conteudo)
 
-# primeira parte eu coloco uma escrita ena segunda faço a leitura pedindo o conteúdo.
+# primeira parte eu coloco uma escrita e na segunda faço a leitura pedindo o conteúdo.

@@ -14,5 +14,3 @@ class Cachorro(Animal):
 cachorro = Cachorro('Rex')
 
 print(cachorro.fazer_som())
-
-# apanhei por uma palavra, não compreendi muito bem.

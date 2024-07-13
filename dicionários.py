@@ -8,4 +8,4 @@ print(dicionario['nome'])
 print(dicionario['idade'])
 
 # criei um dicionário com informações de nome e idade. 
-# com o print, buusquei o que queria, nome e idade, respectivamente.
+# com o print, busquei o que queria, nome e idade, respectivamente.

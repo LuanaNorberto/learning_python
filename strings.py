@@ -7,5 +7,5 @@ print(texto.lower())
 
 texto = 'olá, bebel e pipoca'
 print(texto.lower())
-print(texto.count())
+print(texto.capitalize())
 print(texto.upper())

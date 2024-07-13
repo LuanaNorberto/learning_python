@@ -20,5 +20,5 @@ print(conta.obter_saldo())
 
 # criei uma classe que é a conta bancária.
 # defini o saldo e quantia/depósito.
-# defini um resultado final com o obtter saldo.
+# defini um resultado final com o obter saldo.
 # a impressão é o valor da conta + a quantia de depósito, por fim, pedi o saldo total da classe = conta.

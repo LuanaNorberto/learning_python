@@ -5,7 +5,7 @@ print(texto.lower())
 
 # adicional
 
-texto = 'Olá, Bebel e Pipoca'
+texto = 'olá, bebel e pipoca'
 print(texto.lower())
-
-# imprimi um texto
+print(texto.count())
+print(texto.upper())

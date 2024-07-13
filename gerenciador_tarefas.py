@@ -35,6 +35,3 @@ with open(nome_do_arquivo,'r') as file:
     arquivo = file.read()
 
 print(tarefas)
-
-# Remoção da acentuação da palavra
-
